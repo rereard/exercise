@@ -1,6 +1,6 @@
 const FooterLinks = () => {
     return(
-        <div className="col-8 d-flex justify-content-between flex-items-center flex-wrap">
+        <div className="col-md-8 d-flex justify-content-between flex-items-center flex-wrap">
             <a href="#" className="text-decoration-none me-2">Terms</a>
             <a href="#" className="text-decoration-none me-2">Privacy</a>
             <a href="#" className="text-decoration-none me-2">Security</a>

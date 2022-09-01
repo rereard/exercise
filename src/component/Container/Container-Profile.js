@@ -1,6 +1,6 @@
 const ContainerProfile = () => {
     return(
-        <div className="col-3">
+        <div className="col-md-3">
             <div className="row">
                 <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="200" className="rounded-circle"/>
                 <h4>Lorem Ipsum</h4>
@@ -11,6 +11,7 @@ const ContainerProfile = () => {
                 <hr></hr>
                 <div className="col">
                     <h6>Highlights</h6>
+                    show me ur tits
                 </div>
             </div>
         </div>
