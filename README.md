@@ -1,4 +1,4 @@
-Simple Github profile page with ReactJS based on my profile page. Idk if yours.
+Simple Github profile page with ReactJS based on my old profile page. Idk if yours.
 
 # Getting Started with Create React App
 
