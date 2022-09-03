@@ -1,14 +1,13 @@
+import BrandImage from "../Atom/BrandImage"
+import SearchForm from "../Molecule/SearchForm"
 const Navbar = () => {
     return(
         <nav className="navbar navbar-dark navbar-expand-lg bg-dark">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
-                    <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="30" height="24" className="d-inline-block align-text-top rounded-circle"/>
+                    <BrandImage/>
                 </a>
-                <form className="d-flex align-items-start" role="search">
-                    <input className="form-control me-2" type="search" placeholder="Search or jump to" aria-label="Search"/>
-                    <button className="btn btn-outline-secondary" type="submit"> / </button>
-                </form>
+                <SearchForm/>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
