@@ -1,3 +1,5 @@
+Simple Github profile page with ReactJS based on my profile page. Idk if yours.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
